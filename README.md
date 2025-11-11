@@ -156,9 +156,9 @@ The goal of this guide is to provide resources for building, optimizing, and dep
 ```bash
 git clone https://github.com/afondiel/edge-language.git
 ```
-2. Explore the [Edge AI Engineering](./lab%20/edge-ai-engineering/) section for foundational knowledge.
-3. Dive into [Industry Blueprints](./lab%20/industry-blueprints/) for hands-on, sector-specific language AI guides.
-4. Use the [Edge Optimization Lab](./lab%20/optimization/) and [Production Pipeline](./lab%20/production-pipelines/) for deployment and scaling.
+2. Explore the [Edge AI Engineering](./lab/edge-ai-engineering/) section for foundational knowledge.
+3. Dive into [Industry Blueprints](./lab/industry-blueprints/) for hands-on, sector-specific language AI guides.
+4. Use the [Edge Optimization Lab](./lab/optimization/) and [Production Pipeline](./lab/production-pipelines/) for deployment and scaling.
 
 ## Contributing
 
