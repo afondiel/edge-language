@@ -1,0 +1,3 @@
+[submodule "lab"]
+	path = lab
+	url = https://github.com/afondiel/edge-ai-engineering.git
