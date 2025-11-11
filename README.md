@@ -175,8 +175,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Resources
 
-- [Computer language Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/computer-audition)
-- [The Hugging Face Course on Transformers for language](https://github.com/huggingface/language-transformers-course)
+Technical Guides:
+- [NLP Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/nlp-notes)
+- [Small Language Models Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/llm-notes)
+- [Large Language Models Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/sml-notes)
+- [The Hugging Face CLLM ourse](https://huggingface.co/learn/llm-course)
+
+Curated Lists:
+- [awesomesmol - An awesome list of "small but mighty" models and resources.](https://github.com/afondiel/awesome-smol)
+- [Edge-AI Model Zoo - A list of production-ready models for resource-constrained devices.](https://github.com/afondiel/Edge-AI-Model-Zoo)
 
 Books:
 - [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/)
