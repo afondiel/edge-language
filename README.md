@@ -177,8 +177,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Technical Guides:
 - [NLP Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/nlp-notes)
-- [Small Language Models Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/llm-notes)
-- [Large Language Models Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/sml-notes)
+- [Small Language Models Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/generative-ai-notes/slms-smol-notes)
+- [Large Language Models Notes](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/generative-ai-notes/llm-notes)
 - [The Hugging Face CLLM ourse](https://huggingface.co/learn/llm-course)
 
 Curated Lists:
