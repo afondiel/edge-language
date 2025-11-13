@@ -171,7 +171,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute, repo
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ## Resources
 
@@ -188,4 +188,4 @@ Curated Lists:
 Books:
 - [Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems (Vijay Janapa Reddi)](https://mlsysbook.ai/)
 
-[Back to the Top](#table-of-contents)
+[Back to the Top](#table-of-contents) 
